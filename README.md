@@ -16,8 +16,8 @@
 **Software Development with [<img src="assets\flutter.png" height="20em" align="center" alt="Logo Flutter" title="Logo Flutter"/>](https://flutter.dev/)**
 
 ## 📫 Socials
-[<img src="assets\linkedin.webp" height="60em" align="center" alt="Logo in" title="Logo in"/>](https://www.linkedin.com/in/aldira-lazuardi/)
-[<img src="assets\instagram.webp" height="60em" align="center" alt="Logo ig" title="Logo ig"/>](https://www.instagram.com/aldira_azurea/)
+[<img src="assets\linkedin.webp" height="60em" align="center" alt="Logo in" title="Connect with me!"/>](https://www.linkedin.com/in/aldira-lazuardi/)
+[<img src="assets\instagram.webp" height="60em" align="center" alt="Logo ig" title="Follow me!"/>](https://www.instagram.com/aldira_azurea/)
 
 <!---
 ajur-ajur/ajur-ajur is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
