@@ -7,8 +7,6 @@
 - Telecommunication Engineer (Bachelor)
 - Electrical Engineer (Master)
 
-**Coordinator Assistant at IMV Laboratory [<img src="assets\imv.png" height="20em" align="center" alt="Logo IMV" title="Logo IMV"/>](https://www.imvlaboratory.com/)**
-
 ## 👀 Interest
 
 **Machine Learning with [<img src="assets\tensorflow.webp" height="20em" align="center" alt="Logo TF" title="Logo TF"/>](https://www.tensorflow.org/)**
